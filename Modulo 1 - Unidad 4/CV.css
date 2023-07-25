@@ -1,0 +1,60 @@
+h1 {
+    color: rgb(41, 15, 185);
+    /*color de la fuente*/
+    text-align: center;
+    /*alineacion*/
+    font-size: 60px;
+    /*tamaño de la fuente*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*fuente*/
+
+}
+
+img{
+    padding-left: 750px;    
+}
+
+h2 {
+    color: cornflowerblue;
+    font-size: 27px;
+}
+
+p {
+    color: black;
+    font-weight: bold;
+    /*letra negrita*/
+    font-style: italic;
+    /*letra cursiva*/
+    font-size: 20px;
+    line-height: 23px;
+}
+
+ul {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+ol {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#caja {
+    background-color: rgb(32, 158, 158);
+    width: 450px;
+    /*ancho de caja*/
+    height: 200px;
+    /*alto de caja*/
+    padding: 20px;
+    box-sizing: border-box;
+    margin-left: 650px;
+    /*espacio desde margen*/
+    border: 5px solid black;
+    /*contorno de caja*/
+}
+
+.destacados {
+    /*palabras o frases clave*/
+    font-size: 22px;
+    color: rgb(3, 5, 168);
+}
