@@ -1,9 +1,9 @@
 #contenedor{
-	border:1px solid #000000;
+	border:2px solid #000000;
     background-color: #ffffff;
 	margin: 20px;
 	width: 40%;
-	height: 412px;
+	height: 426px;
     display: flex;
     align-items: center;
 	flex-direction: column;
@@ -13,7 +13,7 @@
 
 #rojo{
 	position: absolute;
-	left: 241px;
+	left: 244px;
 	margin:0 auto;
 	height: 140px;
 	width:35%;
@@ -27,8 +27,8 @@
 
 #azul{
 	position: absolute;
-	left: 241px;
-	top: 135px;
+	left: 244px;
+	top: 142px;
 	margin:0 auto;
 	height:140px;
 	width:35%;
@@ -41,8 +41,8 @@
 
 #verde{
 	position: absolute;
-	left: 241px;
-	top: 270px;
+	left: 244px;
+	top: 284px;
 	margin:0 auto;
 	height:140px;
 	width:35%;
