@@ -2,12 +2,14 @@
 	border:2px solid #000000;
     background-color: #ffffff;
 	margin: 20px;
-	width: 40%;
+	width: 378px;
 	height: 426px;
     display: flex;
     align-items: center;
 	flex-direction: column;
 	position: relative;
+	justify-content: flex-start;
+	
 	
 	}
 
